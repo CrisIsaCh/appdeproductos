@@ -65,6 +65,19 @@ figure {
 .image-banner {
   width: 150px;
 }
+.navbar button {
+  width: 100%;
+  color: white;
+  background-color: rgb(31, 173, 54);
+
+  font-weight: 600;
+  font-size: var(--font-size-grande);
+  padding: 0.7em;
+  cursor: pointer;
+
+  border: none;
+  border-radius: 0.2rem;
+}
 /* --------------------- *\
            HERO
 \* --------------------- */
